@@ -4,7 +4,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedora Full Stack em desenvolvimento 
+    Desenvolvedora Full Stack em desenvolvimento 
   </p>
   
 <div align="center">
