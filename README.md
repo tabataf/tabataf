@@ -1,6 +1,6 @@
 <h1 align="center">
     Oie Tudo bem? Eu sou a
-    <a href="https://www.linkedin.com/in/t%C3%A1bata-de-faria/">Tábata de Faria 😃️</a>
+    <a href="https://www.linkedin.com/in/t%C3%A1bata-de-faria/">Tábata de Faria 🦋 </a>
   </h1>
   
   <p align="center">
